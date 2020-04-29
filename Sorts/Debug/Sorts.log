@@ -1,4 +1,0 @@
-﻿  Main.cpp
-C:\Users\BotAccount\source\repos\Sort Graphic\Sorts\Main.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\BotAccount\source\repos\Sort Graphic\Sorts\Main.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
-  Sorts.vcxproj -> C:\Users\BotAccount\source\repos\Sort Graphic\Debug\Sorts.exe
